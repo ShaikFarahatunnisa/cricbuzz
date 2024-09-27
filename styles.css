@@ -1,0 +1,126 @@
+body
+{
+  background-color: gainsboro;
+  }
+  
+header
+{
+  background-color: rgb(42,170,138);
+  display:flex;
+  align-items:center;
+  justify-content:space-around;
+  font-size: 24px ;
+  color:white;
+  
+}
+#card1
+{
+  vertical-align: top;
+  display: inline-block;
+  width: 310px;
+  height:180px;
+  background-color: #ececec;
+  border-radius:10px;
+}
+#part1
+{
+  height:130px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 5px;
+  
+  
+}
+button{
+  background-color: red;
+  font-size: 10px;
+  color: white;
+  padding: 10px;
+  height: 30px;
+  width: 45px;
+  border-radius: 15px; 
+  
+}
+#part2
+{
+  color:rgb(195, 192, 192);
+  display:flex;
+ justify-content:end;
+ padding: 10px;
+}
+#card2
+{
+  vertical-align: top;
+  display: inline-block;
+  width: 310px;
+  height:180px;
+  background-color: #ececec;
+  border-radius:10px;
+}
+#part1
+{
+  height:130px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 5px;
+  
+  
+}
+button{
+  background-color: red;
+  font-size: 10px;
+  color: white;
+  padding: 10px;
+  height: 30px;
+  width: 45px;
+  border-radius: 15px; 
+  
+}
+#part2
+{
+  color:rgb(195, 192, 192);
+  display:flex;
+ justify-content:end;
+ padding: 10px;
+}
+#card3
+{
+  vertical-align: top;
+  display: inline-block;
+  width: 310px;
+  height:180px;
+  background-color: #ececec;
+  border-radius:10px;
+}
+#part1
+{
+  height:130px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 5px;
+  
+  
+}
+button{
+  font-size: 10px;
+  color: white;
+  padding: 10px;
+  height: 30px;
+  width: 45px;
+  border-radius: 15px; 
+  
+}
+#part2
+{
+  color:rgb(195, 192, 192);
+  display:flex;
+ justify-content:end;
+ padding: 10px;
+}
+
+
+  vertical-align: top;
+  display: inline-block;
